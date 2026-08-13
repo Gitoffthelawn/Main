@@ -1,5 +1,5 @@
 {
-    "version": "18.4",
+    "version": "18.6",
     "description": "Object-relational database management system based on POSTGRES.",
     "homepage": "https://www.postgresql.org",
     "license": "PostgreSQL",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://get.enterprisedb.com/postgresql/postgresql-18.4-1-windows-x64-binaries.zip",
-            "hash": "7effe34c0bf89027b3f171447d351cbc460f4566c8d0f643daec67f140787858"
+            "url": "https://get.enterprisedb.com/postgresql/postgresql-18.6-1-windows-x64-binaries.zip",
+            "hash": "fbe23da234ee31547bf8a36d29dfd81e82b849df2d2b78d2eecb43d360252f8c"
         }
     },
     "extract_dir": "pgsql",
